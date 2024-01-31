@@ -1,0 +1,1 @@
+ Fue creado por Linus Torvalds, el creador del kernel de Linux, en 2005. Git se caracteriza por su eficiencia, confiabilidad y compatibilidad con grandes proyectos de código fuente.
